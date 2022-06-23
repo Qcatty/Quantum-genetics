@@ -21,8 +21,8 @@ https://github.com/echchallaouy/Quantum-genetics
 A 1-2 paragraph written Resource Estimate, indicating how you expect to use the IBM 16-qubit QPU, if awarded, to finish your Open Hackathon project.
 
 We are going to use the IBM 16-qubit QPU, if awarded to simulate a large number of the population's chromosomes.
-1- In the first place, Genes are the qubits.
-2- Second, preparing the superposition of all individuals, or chromosomes of the population.
-3- In third place, the oracle O marks the maximum fitness of |ψ>i, such that when the oracle is applied we obtain the superposition, this step is repeated a given number of iterations. The Grover’s maximum number of iterations is calculated as pi *sqrt(2**n)/4 where n is the number of qubits or length of the quantum chromosome.
-4- In fourth and last place the Grover’s diffusion operator G finds the chromosome with a marked state.
-5- Finally, making a measure, we get the state that points to chromosome with maximum fitness
+### 1- In the first place, Genes are the qubits.
+### 2- Second, preparing the superposition of all individuals, or chromosomes of the population.
+### 3- In third place, the oracle O marks the maximum fitness of |ψ>i, such that when the oracle is applied we obtain the superposition, this step is repeated a given number of iterations. The Grover’s maximum number of iterations is calculated as pi *sqrt(2**n)/4 where n is the number of qubits or length of the quantum chromosome.
+### 4- In fourth and last place the Grover’s diffusion operator G finds the chromosome with a marked state.
+### 5- Finally, making a measure, we get the state that points to chromosome with maximum fitness
