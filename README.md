@@ -10,9 +10,11 @@ a quantum genetic algorithm consist on:
 2- In a second step the algorithm searches for the maximum fitness. Once the operator F is applied, RQGA searches for the maximum fitness value based on the Grover’s search algorithm.
 3- Finally, making a measure in the chromosome with maximum fitness is obtained.
 Reference material:
-https://www.mdpi.com/2073-431X/5/4/24/pdf
-https://arxiv.org/pdf/cs/0403003.pdf
-https://www.researchgate.net/publication/2573070_Genetic_Quantum_Algorithm_and_its_Application_to_Combinatorial_Optimization_Problem
+
+[1] https://www.mdpi.com/2073-431X/5/4/24/pdf
+[2] https://arxiv.org/pdf/cs/0403003.pdf
+[3] https://www.researchgate.net/publication/2573070_Genetic_Quantum_Algorithm_and_its_Application_to_Combinatorial_Optimization_Problem
+[4] https://iopscience.iop.org/article/10.1088/1742-6596/1719/1/012102/pdf
 
 ## Source code:
 https://github.com/echchallaouy/Quantum-genetics
