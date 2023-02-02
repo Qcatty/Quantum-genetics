@@ -1,4 +1,4 @@
-# Quantum-genetics
+# Quantum genitics algorithm
 
 ## Team Name:
 QSchrodinger
